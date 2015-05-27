@@ -1,0 +1,100 @@
+h1 {
+  text-align:center;
+  margin:10px;
+}
+
+
+h2 {
+  margin:8px;
+}
+
+
+.lesson {
+  background-color:#A97D5D;
+  margin:10px;
+  padding:5px;
+  border-radius:20px;
+}
+
+
+.concept {
+  background-color:#F7DCB4;
+  border-radius:20px;
+  padding:4px;
+}
+
+
+.concept-title {
+  font-size:20px;
+  text-align:center;
+  font-weight:bold;
+}
+
+.concept-description {
+  margin:10px;
+}
+
+.summary-concept {
+  background-color:#5C755E;
+  border-radius:20px;
+  margin:10px;
+  padding:4px;
+  }
+
+.summary-title {
+  text-align:center;
+  font-weight:bold;
+}
+
+.summary-description {
+  background-color:#9C9F84;
+  text-align:center;
+  padding:10px;
+  margin:10px;
+  border-radius:20px;
+}
+
+.about-me {
+  background-color:#A97D5D;
+  border-radius:20px;
+  padding:4px;
+  margin:10px;
+}
+
+.about-me-title {
+  text-align:center;
+  font-weight:bold;
+  background-color:#F7DCB4;
+  border-radius:20px;
+  padding:4px;
+  margin:5px;
+}
+
+.about-me-info {
+  background-color:#F7DCB4;
+  border-radius:20px;
+  margin:10px;
+  padding:4px;
+}
+
+.reflection {
+  background-color:#9C9F84;
+  border-radius:20px;
+  margin:10px;
+  padding:4px;
+}
+
+.reflection-title {
+  background-color:#5C755E;
+  padding:4px;
+  border-radius:20px;
+  margin:10px;
+  font-weight:bold;
+  text-align:center;
+}
+
+.grayb {
+  color:gray;
+  font-weight:bold;
+  font-style:italic;
+}
